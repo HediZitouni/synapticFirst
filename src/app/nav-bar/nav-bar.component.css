@@ -1,0 +1,18 @@
+.centerText{
+  text-align: center;
+}
+.defaultColor{
+  background-color: #FA8258;
+  color: #424242;
+}
+.clickableColor{
+  background-color: #FE642E;
+  color: #151515;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-color: white;
+}
+.navBar{
+  height: 45px;
+  line-height: 45px;
+}
